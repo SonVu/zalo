@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Zalo
+Comment=Zalo PC
+Exec=/opt/zalo/zalo
+Icon=/usr/share/pixmaps/zalo.png
+Terminal=false
+Type=Application
+Categories=Developer
